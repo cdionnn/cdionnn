@@ -48,10 +48,6 @@ Siempre estoy aprendiendo, experimentando y buscando nuevas formas de mejorar mi
   />
 </p>
 
----
-
-<h3 align="center">💬 "Aprender, crear y mejorar. Proyecto a proyecto."</h3>
-
 <p align="center">
   ⭐ Gracias por visitar mi perfil
 </p>
