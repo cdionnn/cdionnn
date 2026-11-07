@@ -34,12 +34,10 @@ Siempre estoy aprendiendo, experimentando y buscando nuevas formas de mejorar mi
   <img
     src="https://github-readme-stats.vercel.app/api?username=cdionnn&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Estadísticas de GitHub"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=cdionnn&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Racha de contribuciones"
   />
 </p>
 
@@ -47,7 +45,6 @@ Siempre estoy aprendiendo, experimentando y buscando nuevas formas de mejorar mi
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdionnn&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Lenguajes más utilizados"
   />
 </p>
 
