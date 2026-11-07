@@ -1,24 +1,20 @@
 <h1 align="center">👋 ¡Hola! Soy Jorge</h1>
 
-<h3 align="center">También conocido como <code>cdion</code> 🛡️</h3>
+<h3 align="center">Tambien conocido como <code>cdion</code> </h3>
 
 <p align="center">
   Desarrollador por hobby · FiveM · Web · Discord Bots
 </p>
 
----
-
 ## 👨‍💻 Sobre mí
 
-Soy **Jorge**, aunque en internet también me conocen como **cdion**.
+Soy **Jorge**, aunque en internet tambien me conocen como **cdion**.
 
-No me dedico profesionalmente a la programación; simplemente es algo que disfruto como hobby. Me gusta aprender, crear proyectos y enfrentarme a nuevos retos.
+No me dedico profesionalmente a la programacion; simplemente es algo que disfruto como hobby. Me gusta aprender, crear proyectos y enfrentarme a nuevos retos.
 
-Mi principal entorno de desarrollo es **FiveM**, donde desarrollo sistemas y soluciones relacionadas con servidores. Sin embargo, también puedo trabajar en otros proyectos, como páginas web, bots de Discord y otras ideas que me permitan seguir aprendiendo.
+Mi principal entorno de desarrollo es **FiveM**, donde desarrollo sistemas y soluciones relacionadas con servidores. Sin embargo, tambien puedo trabajar en otros proyectos, como páginas web, bots de Discord y otras ideas que me permitan seguir aprendiendo.
 
-> 💡 *No programo porque sea mi trabajo. Programo porque me gusta crear.*
-
----
+>  *No programo porque sea mi trabajo. Programo porque me gusta crear.*
 
 ## 🛡️ Codeon Shield
 
@@ -26,23 +22,11 @@ Soy el creador de **Codeon Shield**, un proyecto centrado en desarrollar solucio
 
 Siempre estoy aprendiendo, experimentando y buscando nuevas formas de mejorar mis proyectos.
 
----
-
 ## 🚀 Tecnologías y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,html,css,js,nodejs,ts,php,mysql,mongodb&perline=9" />
 </p>
-
-### 🧠 Lo que me gusta crear
-
-- 🎮 Recursos y sistemas para **FiveM**
-- 🛡️ Sistemas de seguridad y **anticheat**
-- 🌐 Páginas y aplicaciones web
-- 🤖 Bots y herramientas para Discord
-- 💡 Proyectos personales y experimentales
-
----
 
 ## 📊 Mis estadísticas de GitHub
 
